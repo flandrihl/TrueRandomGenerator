@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyDescriptionAttribute("Generation True Random.")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+46541622567925e4dcd94d5c28ed65f5ace64f69")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+36cb838d4792484ef130d0e562cd8522ecccf881")]
 [assembly: System.Reflection.AssemblyProductAttribute("TrueRandomGenerator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TrueRandomGenerator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

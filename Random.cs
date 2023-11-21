@@ -23,6 +23,8 @@ namespace TrueRandomGenerator
 
             if (typeof(T) == typeof(byte))
                 return GetResult(bytes[0]);
+            if (typeof(T) == typeof(sbyte))
+                return GetResult((sbyte)bytes[0]);
             if (typeof(T) == typeof(char))
                 return GetResult(BitConverter.ToChar(bytes, 0));
             if (typeof(T) == typeof(bool))

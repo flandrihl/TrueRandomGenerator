@@ -6,7 +6,7 @@
     <authors>TrueRandomGenerator</authors>
     <icon>Dice.png</icon>
     <description>Generation True Random.</description>
-    <repository type="git" commit="46541622567925e4dcd94d5c28ed65f5ace64f69" />
+    <repository type="git" commit="36cb838d4792484ef130d0e562cd8522ecccf881" />
     <dependencies>
       <group targetFramework=".NETFramework4.5" />
       <group targetFramework=".NETFramework4.6.1" />
