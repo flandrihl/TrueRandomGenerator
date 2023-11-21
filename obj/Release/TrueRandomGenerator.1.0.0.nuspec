@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>TrueRandomGenerator</id>
+    <version>1.0.0</version>
+    <authors>TrueRandomGenerator</authors>
+    <icon>Dice.png</icon>
+    <description>Generation True Random.</description>
+    <repository type="git" commit="46541622567925e4dcd94d5c28ed65f5ace64f69" />
+    <dependencies>
+      <group targetFramework=".NETFramework4.5" />
+      <group targetFramework=".NETFramework4.6.1" />
+      <group targetFramework=".NETFramework4.7.2" />
+      <group targetFramework=".NETFramework4.8" />
+      <group targetFramework="net5.0" />
+      <group targetFramework=".NETStandard2.0" />
+      <group targetFramework=".NETStandard2.1" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\Docs\GitHub\TrueRandomGenerator\bin\Release\net45\TrueRandomGenerator.dll" target="lib\net45\TrueRandomGenerator.dll" />
+    <file src="D:\Docs\GitHub\TrueRandomGenerator\bin\Release\net461\TrueRandomGenerator.dll" target="lib\net461\TrueRandomGenerator.dll" />
+    <file src="D:\Docs\GitHub\TrueRandomGenerator\bin\Release\net472\TrueRandomGenerator.dll" target="lib\net472\TrueRandomGenerator.dll" />
+    <file src="D:\Docs\GitHub\TrueRandomGenerator\bin\Release\net48\TrueRandomGenerator.dll" target="lib\net48\TrueRandomGenerator.dll" />
+    <file src="D:\Docs\GitHub\TrueRandomGenerator\bin\Release\net5.0\TrueRandomGenerator.dll" target="lib\net5.0\TrueRandomGenerator.dll" />
+    <file src="D:\Docs\GitHub\TrueRandomGenerator\bin\Release\netstandard2.0\TrueRandomGenerator.dll" target="lib\netstandard2.0\TrueRandomGenerator.dll" />
+    <file src="D:\Docs\GitHub\TrueRandomGenerator\bin\Release\netstandard2.1\TrueRandomGenerator.dll" target="lib\netstandard2.1\TrueRandomGenerator.dll" />
+    <file src="D:\Docs\GitHub\TrueRandomGenerator\Dice.png" target="\Dice.png" />
+  </files>
+</package>
