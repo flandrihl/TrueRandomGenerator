@@ -5,6 +5,10 @@ namespace TrueRandomGenerator
 {
     public  class Random
     {
+
+        /// <summary>Generate Next true-random item.</summary>
+        /// <typeparam name="T">The simple type for generation</typeparam>
+        /// <returns>Gets true-random item of [T]</returns>
         public static T? Next<T>() where T : struct, IComparable, IComparable<T>, IConvertible, IEquatable<T>, IFormattable
         {
             using (var rng = new RNGCryptoServiceProvider())
