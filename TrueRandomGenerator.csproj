@@ -1,0 +1,25 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFrameworks>net5.0;netstandard2.1;netstandard2.0;net48;net472;net461;net45</TargetFrameworks>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+      <LangVersion>Latest</LangVersion>
+      <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+      <Company>by flandrihl</Company>
+      <Description>Generation True Random.</Description>
+      <PackageIcon>Dice.png</PackageIcon>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Dice.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="Dice.png">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </Content>
+  </ItemGroup>
+
+</Project>

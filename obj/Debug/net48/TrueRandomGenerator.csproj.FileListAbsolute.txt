@@ -1,0 +1,10 @@
+D:\Docs\GitHub\TrueRandomGenerator\bin\Debug\net48\TrueRandomGenerator.dll
+D:\Docs\GitHub\TrueRandomGenerator\bin\Debug\net48\TrueRandomGenerator.pdb
+D:\Docs\GitHub\TrueRandomGenerator\obj\Debug\net48\TrueRandomGenerator.csproj.AssemblyReference.cache
+D:\Docs\GitHub\TrueRandomGenerator\obj\Debug\net48\TrueRandomGenerator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Docs\GitHub\TrueRandomGenerator\obj\Debug\net48\TrueRandomGenerator.AssemblyInfoInputs.cache
+D:\Docs\GitHub\TrueRandomGenerator\obj\Debug\net48\TrueRandomGenerator.AssemblyInfo.cs
+D:\Docs\GitHub\TrueRandomGenerator\obj\Debug\net48\TrueRandomGenerator.csproj.CoreCompileInputs.cache
+D:\Docs\GitHub\TrueRandomGenerator\obj\Debug\net48\TrueRandomGenerator.sourcelink.json
+D:\Docs\GitHub\TrueRandomGenerator\obj\Debug\net48\TrueRandomGenerator.dll
+D:\Docs\GitHub\TrueRandomGenerator\obj\Debug\net48\TrueRandomGenerator.pdb
